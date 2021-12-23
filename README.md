@@ -40,17 +40,6 @@ In the database, in the works, you have differents informations about the work :
 
 <strong>In PHPMyAdmin, import ```beethoven_sworks.sql``` like below and select the file.</strong>
 <img src="./src/assets/img/screenshot-2021-12-23-120510.png"></img>
-<style>
-    img {
-    height: 300px;
-    width: 400px;
-    position: absolute;
-    top: 35px;
-    left: 0px;
-}
-</style>
-
-hi !
 
 ---
 
