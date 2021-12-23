@@ -3,7 +3,7 @@
 // connection to the database
 function getConnection() {
 
-    // if you have an other id for your database, enter it below. It's an example here :
+    // if you have others informations for your database, enter it below. It's an example here :
    return new PDO("mysql:host=localhost; dbname=beethoven'sworks; charset=utf8;", "root", "");
 }
 
