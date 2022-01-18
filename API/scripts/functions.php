@@ -63,4 +63,3 @@ function getWorkById($id) {
     sendJSON($works);
 }
 
-?>
