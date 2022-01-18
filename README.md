@@ -26,7 +26,7 @@ In the datbase, you have differents categories of work of Beethoven :
 - Strings Trios
 - Strings Quartets
 - Others
-
+ 
 In the database, in the works, you have differents informations about the work :
 - id
 - opus number
