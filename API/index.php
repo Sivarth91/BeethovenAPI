@@ -35,4 +35,3 @@ try {
     print_r($error);
 }
  
-?>
